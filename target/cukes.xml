@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="34.377">
+    <testcase classname="F1" name="make search with &quot;car accessories &quot; ,add items to cart" time="34.147">
+        <system-out><![CDATA[Given Open amazon link https://www.amazon.com/..............................passed
+When Write in SearchBar  car accessories....................................passed
+Then Select the first Item,index 0..........................................passed
+And Add item to the car.....................................................passed
+And Check item add successful...............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
